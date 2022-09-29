@@ -1,0 +1,307 @@
+
+[2022.09.29] [05:28:46] Session opened.
+[2022.09.29] [05:28:46] Time for 1's 1 transfers: 0.000128s:
+[2022.09.29] [05:28:46] Time for 2's 1 transfers: 0.000168s:
+[2022.09.29] [05:28:46] Time for 3's 1 transfers: 0.000135s:
+[2022.09.29] [05:28:46] Time for 4's 1 transfers: 0.000106s:
+[2022.09.29] [05:28:46] Time for 5's 1 transfers: 0.000098s:
+[2022.09.29] [05:28:46] Time for 6's 1 transfers: 0.000101s:
+[2022.09.29] [05:28:46] Time for 7's 1 transfers: 0.000104s:
+[2022.09.29] [05:28:46] Time for 8's 1 transfers: 0.000104s:
+[2022.09.29] [05:28:46] Time for 9's 1 transfers: 0.000125s:
+[2022.09.29] [05:28:46] Time for 10's 1 transfers: 0.000093s:
+[2022.09.29] [05:28:46] Total time for 10 transfers: 0.001207s
+[2022.09.29] [05:28:46] Session closed.
+
+
+[2022.09.29] [05:29:15] Session opened.
+[2022.09.29] [05:29:15] Session closed.
+
+
+[2022.09.29] [05:29:20] Session opened.
+[2022.09.29] [05:29:20] Time for 1's 10 transfers: 0.000554s:
+[2022.09.29] [05:29:20] Time for 2's 10 transfers: 0.000544s:
+[2022.09.29] [05:29:20] Time for 3's 10 transfers: 0.000545s:
+[2022.09.29] [05:29:20] Time for 4's 10 transfers: 0.000515s:
+[2022.09.29] [05:29:20] Time for 5's 10 transfers: 0.000543s:
+[2022.09.29] [05:29:20] Time for 6's 10 transfers: 0.000530s:
+[2022.09.29] [05:29:20] Time for 7's 10 transfers: 0.000516s:
+[2022.09.29] [05:29:20] Time for 8's 10 transfers: 0.000536s:
+[2022.09.29] [05:29:20] Time for 9's 10 transfers: 0.000459s:
+[2022.09.29] [05:29:20] Time for 10's 10 transfers: 0.000450s:
+[2022.09.29] [05:29:20] Total time for 100 transfers: 0.005233s
+[2022.09.29] [05:29:20] Session closed.
+
+
+[2022.09.29] [05:29:45] Session opened.
+[2022.09.29] [05:29:45] Time for 1's 100 transfers: 0.005022s:
+[2022.09.29] [05:29:45] Time for 2's 100 transfers: 0.004327s:
+[2022.09.29] [05:29:45] Time for 3's 100 transfers: 0.004299s:
+[2022.09.29] [05:29:45] Time for 4's 100 transfers: 0.004301s:
+[2022.09.29] [05:29:45] Time for 5's 100 transfers: 0.004253s:
+[2022.09.29] [05:29:45] Time for 6's 100 transfers: 0.004413s:
+[2022.09.29] [05:29:45] Time for 7's 100 transfers: 0.004321s:
+[2022.09.29] [05:29:45] Time for 8's 100 transfers: 0.004309s:
+[2022.09.29] [05:29:45] Time for 9's 100 transfers: 0.004314s:
+[2022.09.29] [05:29:45] Time for 10's 100 transfers: 0.004346s:
+[2022.09.29] [05:29:45] Total time for 1000 transfers: 0.043965s
+[2022.09.29] [05:29:45] Session closed.
+
+
+[2022.09.29] [05:30:59] Session opened.
+[2022.09.29] [05:30:59] Time for 1's 100 transfers: 0.005423s:
+[2022.09.29] [05:30:59] Time for 2's 100 transfers: 0.004883s:
+[2022.09.29] [05:30:59] Time for 3's 100 transfers: 0.004887s:
+[2022.09.29] [05:30:59] Time for 4's 100 transfers: 0.004870s:
+[2022.09.29] [05:30:59] Time for 5's 100 transfers: 0.004713s:
+[2022.09.29] [05:30:59] Time for 6's 100 transfers: 0.004895s:
+[2022.09.29] [05:30:59] Time for 7's 100 transfers: 0.005079s:
+[2022.09.29] [05:30:59] Time for 8's 100 transfers: 0.004744s:
+[2022.09.29] [05:30:59] Time for 9's 100 transfers: 0.005002s:
+[2022.09.29] [05:30:59] Time for 10's 100 transfers: 0.004764s:
+[2022.09.29] [05:30:59] Total time for 1000 transfers: 0.049334s
+[2022.09.29] [05:30:59] Session closed.
+
+
+[2022.09.29] [05:31:06] Session opened.
+[2022.09.29] [05:31:06] Session closed.
+
+
+[2022.09.29] [05:31:10] Session opened.
+[2022.09.29] [05:31:10] Time for 1's 1000 transfers: 0.047601s:
+[2022.09.29] [05:31:11] Time for 2's 1000 transfers: 0.045718s:
+[2022.09.29] [05:31:11] Time for 3's 1000 transfers: 0.046008s:
+[2022.09.29] [05:31:12] Time for 4's 1000 transfers: 0.050534s:
+[2022.09.29] [05:31:12] Time for 5's 1000 transfers: 0.045604s:
+[2022.09.29] [05:31:12] Time for 6's 1000 transfers: 0.045619s:
+[2022.09.29] [05:31:12] Time for 7's 1000 transfers: 0.045699s:
+[2022.09.29] [05:31:12] Time for 8's 1000 transfers: 0.045748s:
+[2022.09.29] [05:31:13] Time for 9's 1000 transfers: 0.045638s:
+[2022.09.29] [05:31:13] Time for 10's 1000 transfers: 0.045974s:
+[2022.09.29] [05:31:13] Total time for 10000 transfers: 0.464215s
+[2022.09.29] [05:31:13] Session closed.
+
+
+[2022.09.29] [05:32:59] Session opened.
+[2022.09.29] [05:32:59] Time for 1's 10 transfers: 0.000670s:
+[2022.09.29] [05:32:59] Time for 2's 10 transfers: 0.000627s:
+[2022.09.29] [05:32:59] Time for 3's 10 transfers: 0.000621s:
+[2022.09.29] [05:32:59] Time for 4's 10 transfers: 0.000571s:
+[2022.09.29] [05:32:59] Time for 5's 10 transfers: 0.000583s:
+[2022.09.29] [05:32:59] Time for 6's 10 transfers: 0.000562s:
+[2022.09.29] [05:32:59] Time for 7's 10 transfers: 0.000574s:
+[2022.09.29] [05:32:59] Time for 8's 10 transfers: 0.000568s:
+[2022.09.29] [05:32:59] Time for 9's 10 transfers: 0.000523s:
+[2022.09.29] [05:32:59] Time for 10's 10 transfers: 0.000508s:
+[2022.09.29] [05:32:59] Total time for 100 transfers: 0.005840s
+[2022.09.29] [05:32:59] Session closed.
+
+
+[2022.09.29] [05:33:03] Session opened.
+[2022.09.29] [05:33:03] Time for 1's 10 transfers: 0.000567s:
+[2022.09.29] [05:33:03] Time for 2's 10 transfers: 0.000589s:
+[2022.09.29] [05:33:03] Time for 3's 10 transfers: 0.000595s:
+[2022.09.29] [05:33:03] Time for 4's 10 transfers: 0.000599s:
+[2022.09.29] [05:33:03] Time for 5's 10 transfers: 0.000658s:
+[2022.09.29] [05:33:03] Time for 6's 10 transfers: 0.000583s:
+[2022.09.29] [05:33:03] Time for 7's 10 transfers: 0.000571s:
+[2022.09.29] [05:33:03] Time for 8's 10 transfers: 0.000553s:
+[2022.09.29] [05:33:03] Time for 9's 10 transfers: 0.000525s:
+[2022.09.29] [05:33:03] Time for 10's 10 transfers: 0.000518s:
+[2022.09.29] [05:33:03] Total time for 100 transfers: 0.005793s
+[2022.09.29] [05:33:03] Session closed.
+
+
+[2022.09.29] [05:33:06] Session opened.
+[2022.09.29] [05:33:06] Time for 1's 10 transfers: 0.000604s:
+[2022.09.29] [05:33:06] Time for 2's 10 transfers: 0.000614s:
+[2022.09.29] [05:33:06] Time for 3's 10 transfers: 0.000586s:
+[2022.09.29] [05:33:06] Time for 4's 10 transfers: 0.000575s:
+[2022.09.29] [05:33:06] Time for 5's 10 transfers: 0.000560s:
+[2022.09.29] [05:33:06] Time for 6's 10 transfers: 0.000594s:
+[2022.09.29] [05:33:06] Time for 7's 10 transfers: 0.000611s:
+[2022.09.29] [05:33:06] Time for 8's 10 transfers: 0.000526s:
+[2022.09.29] [05:33:06] Time for 9's 10 transfers: 0.000535s:
+[2022.09.29] [05:33:06] Time for 10's 10 transfers: 0.000503s:
+[2022.09.29] [05:33:06] Total time for 100 transfers: 0.005753s
+[2022.09.29] [05:33:06] Session closed.
+
+
+[2022.09.29] [05:33:09] Session opened.
+[2022.09.29] [05:33:09] Time for 1's 10 transfers: 0.000704s:
+[2022.09.29] [05:33:09] Time for 2's 10 transfers: 0.000705s:
+[2022.09.29] [05:33:09] Time for 3's 10 transfers: 0.000773s:
+[2022.09.29] [05:33:09] Time for 4's 10 transfers: 0.000740s:
+[2022.09.29] [05:33:09] Time for 5's 10 transfers: 0.000746s:
+[2022.09.29] [05:33:09] Time for 6's 10 transfers: 0.000731s:
+[2022.09.29] [05:33:09] Time for 7's 10 transfers: 0.000687s:
+[2022.09.29] [05:33:09] Time for 8's 10 transfers: 0.000490s:
+[2022.09.29] [05:33:09] Time for 9's 10 transfers: 0.000526s:
+[2022.09.29] [05:33:09] Time for 10's 10 transfers: 0.000510s:
+[2022.09.29] [05:33:09] Total time for 100 transfers: 0.006660s
+[2022.09.29] [05:33:09] Session closed.
+
+
+[2022.09.29] [05:33:13] Session opened.
+[2022.09.29] [05:33:13] Time for 1's 100 transfers: 0.005154s:
+[2022.09.29] [05:33:13] Time for 2's 100 transfers: 0.004632s:
+[2022.09.29] [05:33:13] Time for 3's 100 transfers: 0.004635s:
+[2022.09.29] [05:33:13] Time for 4's 100 transfers: 0.004844s:
+[2022.09.29] [05:33:13] Time for 5's 100 transfers: 0.004625s:
+[2022.09.29] [05:33:13] Time for 6's 100 transfers: 0.004618s:
+[2022.09.29] [05:33:13] Time for 7's 100 transfers: 0.004579s:
+[2022.09.29] [05:33:13] Time for 8's 100 transfers: 0.004615s:
+[2022.09.29] [05:33:13] Time for 9's 100 transfers: 0.004702s:
+[2022.09.29] [05:33:13] Time for 10's 100 transfers: 0.004801s:
+[2022.09.29] [05:33:13] Total time for 1000 transfers: 0.047262s
+[2022.09.29] [05:33:13] Session closed.
+
+
+[2022.09.29] [05:33:18] Session opened.
+[2022.09.29] [05:33:18] Time for 1's 100 transfers: 0.005313s:
+[2022.09.29] [05:33:18] Time for 2's 100 transfers: 0.004888s:
+[2022.09.29] [05:33:18] Time for 3's 100 transfers: 0.004613s:
+[2022.09.29] [05:33:18] Time for 4's 100 transfers: 0.004631s:
+[2022.09.29] [05:33:18] Time for 5's 100 transfers: 0.004616s:
+[2022.09.29] [05:33:18] Time for 6's 100 transfers: 0.004946s:
+[2022.09.29] [05:33:18] Time for 7's 100 transfers: 0.004586s:
+[2022.09.29] [05:33:18] Time for 8's 100 transfers: 0.004613s:
+[2022.09.29] [05:33:18] Time for 9's 100 transfers: 0.004626s:
+[2022.09.29] [05:33:18] Time for 10's 100 transfers: 0.004723s:
+[2022.09.29] [05:33:18] Total time for 1000 transfers: 0.047599s
+[2022.09.29] [05:33:18] Session closed.
+
+
+[2022.09.29] [05:33:21] Session opened.
+[2022.09.29] [05:33:21] Time for 1's 100 transfers: 0.006401s:
+[2022.09.29] [05:33:21] Time for 2's 100 transfers: 0.004736s:
+[2022.09.29] [05:33:21] Time for 3's 100 transfers: 0.004666s:
+[2022.09.29] [05:33:21] Time for 4's 100 transfers: 0.004648s:
+[2022.09.29] [05:33:21] Time for 5's 100 transfers: 0.004686s:
+[2022.09.29] [05:33:21] Time for 6's 100 transfers: 0.004629s:
+[2022.09.29] [05:33:21] Time for 7's 100 transfers: 0.004671s:
+[2022.09.29] [05:33:21] Time for 8's 100 transfers: 0.004773s:
+[2022.09.29] [05:33:21] Time for 9's 100 transfers: 0.004635s:
+[2022.09.29] [05:33:21] Time for 10's 100 transfers: 0.004682s:
+[2022.09.29] [05:33:21] Total time for 1000 transfers: 0.048577s
+[2022.09.29] [05:33:21] Session closed.
+
+
+[2022.09.29] [05:33:25] Session opened.
+[2022.09.29] [05:33:25] Time for 1's 100 transfers: 0.005291s:
+[2022.09.29] [05:33:25] Time for 2's 100 transfers: 0.004689s:
+[2022.09.29] [05:33:25] Time for 3's 100 transfers: 0.004603s:
+[2022.09.29] [05:33:25] Time for 4's 100 transfers: 0.004664s:
+[2022.09.29] [05:33:25] Time for 5's 100 transfers: 0.004610s:
+[2022.09.29] [05:33:25] Time for 6's 100 transfers: 0.004753s:
+[2022.09.29] [05:33:25] Time for 7's 100 transfers: 0.004611s:
+[2022.09.29] [05:33:25] Time for 8's 100 transfers: 0.004664s:
+[2022.09.29] [05:33:25] Time for 9's 100 transfers: 0.004574s:
+[2022.09.29] [05:33:25] Time for 10's 100 transfers: 0.004766s:
+[2022.09.29] [05:33:25] Total time for 1000 transfers: 0.047320s
+[2022.09.29] [05:33:25] Session closed.
+
+
+[2022.09.29] [05:33:31] Session opened.
+[2022.09.29] [05:33:31] Time for 1's 100 transfers: 0.005398s:
+[2022.09.29] [05:33:31] Time for 2's 100 transfers: 0.004628s:
+[2022.09.29] [05:33:31] Time for 3's 100 transfers: 0.004603s:
+[2022.09.29] [05:33:31] Time for 4's 100 transfers: 0.004846s:
+[2022.09.29] [05:33:31] Time for 5's 100 transfers: 0.004721s:
+[2022.09.29] [05:33:31] Time for 6's 100 transfers: 0.004720s:
+[2022.09.29] [05:33:31] Time for 7's 100 transfers: 0.004631s:
+[2022.09.29] [05:33:31] Time for 8's 100 transfers: 0.004638s:
+[2022.09.29] [05:33:31] Time for 9's 100 transfers: 0.004789s:
+[2022.09.29] [05:33:31] Time for 10's 100 transfers: 0.004579s:
+[2022.09.29] [05:33:31] Total time for 1000 transfers: 0.047631s
+[2022.09.29] [05:33:31] Session closed.
+
+
+
+[2022.09.29] [05:33:46] Session opened.
+[2022.09.29] [05:33:46] Time for 1's 1000 transfers: 0.046169s:
+[2022.09.29] [05:33:46] Time for 2's 1000 transfers: 0.045948s:
+[2022.09.29] [05:33:46] Time for 3's 1000 transfers: 0.045986s:
+[2022.09.29] [05:33:46] Time for 4's 1000 transfers: 0.047159s:
+[2022.09.29] [05:33:47] Time for 5's 1000 transfers: 0.044977s:
+[2022.09.29] [05:33:47] Time for 6's 1000 transfers: 0.047850s:
+[2022.09.29] [05:33:47] Time for 7's 1000 transfers: 0.045109s:
+[2022.09.29] [05:33:47] Time for 8's 1000 transfers: 0.046067s:
+[2022.09.29] [05:33:47] Time for 9's 1000 transfers: 0.045544s:
+[2022.09.29] [05:33:47] Time for 10's 1000 transfers: 0.045315s:
+[2022.09.29] [05:33:47] Total time for 10000 transfers: 0.460206s
+[2022.09.29] [05:33:47] Session closed.
+
+
+[2022.09.29] [05:34:08] Session opened.
+[2022.09.29] [05:34:08] Time for 1's 1000 transfers: 0.047042s:
+[2022.09.29] [05:34:09] Time for 2's 1000 transfers: 0.047577s:
+[2022.09.29] [05:34:09] Time for 3's 1000 transfers: 0.047098s:
+[2022.09.29] [05:34:09] Time for 4's 1000 transfers: 0.046533s:
+[2022.09.29] [05:34:09] Time for 5's 1000 transfers: 0.045945s:
+[2022.09.29] [05:34:09] Time for 6's 1000 transfers: 0.046586s:
+[2022.09.29] [05:34:10] Time for 7's 1000 transfers: 0.049119s:
+[2022.09.29] [05:34:10] Time for 8's 1000 transfers: 0.046443s:
+[2022.09.29] [05:34:11] Time for 9's 1000 transfers: 0.046150s:
+[2022.09.29] [05:34:11] Time for 10's 1000 transfers: 0.046658s:
+[2022.09.29] [05:34:11] Total time for 10000 transfers: 0.469225s
+[2022.09.29] [05:34:11] Session closed.
+
+
+[2022.09.29] [05:34:18] Session opened.
+[2022.09.29] [05:34:18] Time for 1's 1000 transfers: 0.047087s:
+[2022.09.29] [05:34:19] Time for 2's 1000 transfers: 0.045543s:
+[2022.09.29] [05:34:19] Time for 3's 1000 transfers: 0.046058s:
+[2022.09.29] [05:34:19] Time for 4's 1000 transfers: 0.045669s:
+[2022.09.29] [05:34:19] Time for 5's 1000 transfers: 0.045611s:
+[2022.09.29] [05:34:19] Time for 6's 1000 transfers: 0.045612s:
+[2022.09.29] [05:34:19] Time for 7's 1000 transfers: 0.045873s:
+[2022.09.29] [05:34:20] Time for 8's 1000 transfers: 0.045540s:
+[2022.09.29] [05:34:20] Time for 9's 1000 transfers: 0.046005s:
+[2022.09.29] [05:34:20] Time for 10's 1000 transfers: 0.045752s:
+[2022.09.29] [05:34:20] Total time for 10000 transfers: 0.458837s
+[2022.09.29] [05:34:20] Session closed.
+
+
+[2022.09.29] [06:11:01] Session opened.
+[2022.09.29] [06:11:01] Session closed.
+
+
+[2022.09.29] [06:12:54] Session opened.
+[2022.09.29] [06:12:54] Session closed.
+
+
+[2022.09.29] [06:13:29] Session opened.
+[2022.09.29] [06:13:29] Session closed.
+
+
+[2022.09.29] [06:13:54] Session opened.
+[2022.09.29] [06:13:54] Session closed.
+
+
+[2022.09.29] [06:14:21] Session opened.
+[2022.09.29] [06:14:21] Session closed.
+
+
+[2022.09.29] [06:14:52] Session opened.
+[2022.09.29] [06:14:52] Session closed.
+
+
+[2022.09.29] [06:16:04] Session opened.
+[2022.09.29] [06:16:04] Session closed.
+
+
+[2022.09.29] [06:16:41] Session opened.
+[2022.09.29] [06:16:41] Time for 1's 1 transfers: 0.000074s:
+[2022.09.29] [06:16:41] Time for 2's 1 transfers: 0.000151s:
+[2022.09.29] [06:16:41] Time for 3's 1 transfers: 0.000120s:
+[2022.09.29] [06:16:41] Time for 4's 1 transfers: 0.000139s:
+[2022.09.29] [06:16:41] Time for 5's 1 transfers: 0.000144s:
+[2022.09.29] [06:16:41] Time for 6's 1 transfers: 0.000140s:
+[2022.09.29] [06:16:41] Time for 7's 1 transfers: 0.000137s:
+[2022.09.29] [06:16:41] Time for 8's 1 transfers: 0.000107s:
+[2022.09.29] [06:16:41] Time for 9's 1 transfers: 0.000145s:
+[2022.09.29] [06:16:41] Time for 10's 1 transfers: 0.000156s:
+[2022.09.29] [06:16:41] Total time for 10 transfers: 0.001383s
+[2022.09.29] [06:16:41] Session closed.
+
