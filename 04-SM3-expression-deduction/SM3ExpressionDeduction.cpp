@@ -1,9 +1,9 @@
 /*
- * @Description: 
- * @Autor: Jechin
+ * @Description: Implement in c++
+ * @Autor: zltang
  * @Date: 2022-11-10 15:44:21
  * @LastEditors: Jechin
- * @LastEditTime: 2022-11-10 16:37:31
+ * @LastEditTime: 2022-11-10 19:00:25
  */
 
 #include <iostream>
