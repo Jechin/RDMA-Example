@@ -3,7 +3,7 @@ Description: 状态更新函数推演
 Autor: Jechin
 Date: 2022-11-09 16:21:02
 LastEditors: Jechin
-LastEditTime: 2022-11-10 10:24:55
+LastEditTime: 2022-11-10 16:45:27
 '''
 
 from tqdm import tqdm
@@ -15,10 +15,6 @@ def print_list(var, list):
             f.write(item)
     print("written in " + var + ".txt")
 
-def SS1(i):
-    ans = ["(", "(", "(", f"A_{i}", "<<<12", ")", "+", f"E_{i}", "+", f"(T_{i}<<<{i})", ")", "<<<7", ")"]
-    return ans
-
 def extend(list1, list2, index):
     if index > len(list1):
         print("index out of range, extend error")
@@ -28,17 +24,19 @@ def extend(list1, list2, index):
 
     return list1
 
+def SS1(i):
+    ans = ["(((", f"A_{i}", "<<<12)", "+", f"E_{i}", "+", f"(T_{i}<<<{i}))<<<7)"]
+    return ans
+
 
 def SS2(i):
     ans = []
     ans.append("(")
     ans.append(f"SS1_{i}")
-    ans.append("+")
-    ans.append("(")
+    ans.append("+(")
     ans.append(f"A_{i}")
     ans.append("<<<12")
-    ans.append(")")
-    ans.append(")")
+    ans.append("))")
     return ans
 
 def TT1(i):
@@ -48,13 +46,12 @@ def TT1(i):
     if i < 16:
         FF += ["(", f"A_{i}", "^", f"B_{i}", "^", f"C_{i}", ")"]
     elif i < 64:
-        FF += ["(", "(", f"A_{i}", "&", f"B_{i}", ")", "|", "(", f"A_{i}", "&", f"C_{i}", ")", "|", "(", f"B_{i}", "&", f"C_{i}", ")", ")"]
+        FF += ["((", f"A_{i}", "&", f"B_{i}", ")|(", f"A_{i}", "&", f"C_{i}", ")|(", f"B_{i}", "&", f"C_{i}", "))"]
     else:
-        print("TT1 error")
+        print(f"TT1 error, i = {i}")
         exit(0)
     ans += FF
     ans += ["+", f"D_{i}", "+", f"SS2_{i}", "+", f"W'_{i}"]
-
     ans.append(")")
     return ans
 
@@ -65,9 +62,9 @@ def TT2(i):
     if i < 16:
         GG += ["(", f"E_{i}", "^", f"F_{i}", "^", f"G_{i}", ")"]
     elif i < 64:
-        GG += ["(", "(", f"E_{i}", "&", f"F_{i}", ")", "|", "(", "~", f"E_{i}", "&", f"G_{i}", ")", ")"]
+        GG += ["((", f"E_{i}", "&", f"F_{i}", ")|(~", f"E_{i}", "&", f"G_{i}", "))"]
     else:
-        print("TT2 error")
+        print(f"TT2 error, i = {i}")
         exit(0)
     ans += GG
     ans += ["+", f"H_{i}", "+", f"SS1_{i}", "+", f"W_{i}"]
@@ -92,7 +89,7 @@ def C(i):
             ans = f.read()
         return [ans]
     else:
-        return ["(", f"B_{i-1}", "<<<9", ")"]
+        return ["(", f"B_{i-1}", "<<<9)"]
 
 
 def B(i):
@@ -154,7 +151,7 @@ def E(i):
             ans = f.read()
         return [ans]
     else:
-        return ["(", f"TT2_{i-1}", "^", "(", f"TT2_{i-1}", "<<<9", ")", "^", "(", f"TT2_{i-1}", "<<<17", ")", ")"]
+        return ["(", f"TT2_{i-1}", "^(", f"TT2_{i-1}", "<<<9)^(", f"TT2_{i-1}", "<<<17))"]
 
 def Calculate(test):
     iter = 0
