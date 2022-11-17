@@ -44,13 +44,7 @@ extern "C" {
 void ghash(const uint8_t h[16], const uint8_t *aad, size_t aadlen,
 	const uint8_t *c, size_t clen, uint8_t out[16]);
 
-// int gcm_encrypt(const BLOCK_CIPHER_KEY *key, const uint8_t *iv, size_t ivlen,
-// 	const uint8_t *aad, size_t aadlen, const uint8_t *in, size_t inlen,
-// 	uint8_t *out, size_t taglen, uint8_t *tag);
 
-// int gcm_decrypt(const BLOCK_CIPHER_KEY *key, const uint8_t *iv, size_t ivlen,
-// 	const uint8_t *aad, size_t aadlen, const uint8_t *in, size_t inlen,
-// 	const uint8_t *tag, size_t taglen, uint8_t *out);
 
 void ghash(const uint8_t h[16], const uint8_t *aad, size_t aadlen, const uint8_t *c, size_t clen, uint8_t out[16])
 {

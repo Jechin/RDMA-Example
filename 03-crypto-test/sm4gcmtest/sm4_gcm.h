@@ -30,21 +30,13 @@ SM4 Public API
 	SM4_KEY_SIZE
 	SM4_BLOCK_SIZE
 
-	SM4_CBC_CTX
-	sm4_cbc_encrypt_init
-	sm4_cbc_encrypt_update
-	sm4_cbc_encrypt_finish
-	sm4_cbc_decrypt_init
-	sm4_cbc_decrypt_update
-	sm4_cbc_decrypt_finish
+	sm4_set_encrypt_key
+	sm4_set_decrypt_key
+	sm4_encrypt
+	sm4_decrypt
 
-	SM4_CTR_CTX
-	sm4_ctr_encrypt_init
-	sm4_ctr_encrypt_update
-	sm4_ctr_encrypt_finish
-	sm4_ctr_decrypt_init
-	sm4_ctr_decrypt_update
-	sm4_ctr_decrypt_finish
+	sm4_gcm_encrypt
+	sm4_gcm_decrypt
 */
 
 #define SM4_KEY_SIZE		(16)
