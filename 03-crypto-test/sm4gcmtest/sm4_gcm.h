@@ -185,10 +185,6 @@ const uint32_t SM4_T[256] = {
 	ROL32((x), 18) ^					\
 	ROL32((x), 24))
 
-#define ROUND_SBOX(x0, x1, x2, x3, x4, i)			\
-	x4 = x1 ^ x2 ^ x3 ^ *(rk + i);				\
-	x4 = S32(x4);						\
-	x4 = x0 ^ L32(x4)
 
 #define ROUND_TBOX(x0, x1, x2, x3, x4, i)			\
 	x4 = x1 ^ x2 ^ x3 ^ *(rk + i);				\
